@@ -9,6 +9,10 @@ a{
     color: rgb(70, 230, 70);
 }
 
+p{
+    margin: 15px;
+}
+
 hr{
     border-color: green;
 }
