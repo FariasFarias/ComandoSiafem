@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: rgb(70, 230, 70);
+    font-size: 18pt;
+    font-family:'Courier New', Courier, monospace;
+}
+
+a{
+    color: rgb(70, 230, 70);
+}
+
+hr{
+    border-color: green;
+}
