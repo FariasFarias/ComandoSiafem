@@ -10,7 +10,7 @@ a{
 }
 
 p{
-    margin: 15px;
+    margin: 25px;
 }
 
 hr{
@@ -19,4 +19,8 @@ hr{
 
 footer{
     font-size: 8pt;
+    text-align: right;
+}
+li {
+    margin: 10px;
 }
