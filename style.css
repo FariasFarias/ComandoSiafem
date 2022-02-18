@@ -3,6 +3,7 @@ body{
     color: rgb(70, 230, 70);
     font-size: 12pt;
     font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
 }
 
 a{
@@ -10,7 +11,7 @@ a{
 }
 
 p{
-    margin: 25px;
+    margin: 30px;
 }
 
 hr{
@@ -22,7 +23,7 @@ footer{
     text-align: right;
 }
 li {
-    margin: 10px;
+    margin: 15px;
 }
 
 h1{
@@ -31,5 +32,14 @@ h1{
 
 iframe{
     display: none;
-    height: 250px;
+    height: 300px;
+    width: 90%;
+}
+
+input{
+    background-color: rgb(0, 150, 7);
+    color: rgb(255, 255, 255);
+    border-color: green;
+    border-radius: 8px;
+
 }
