@@ -7,7 +7,7 @@ function visibilidade(idElem, idBtn){
     
     if (btnAtivado.length != 0){
         document.getElementById(btnAtivado[0]).style.display = "none"
-        document.getElementById(btnAtivado[1]).style.display = "Mostrar"
+        document.getElementById(btnAtivado[1]).value = "Mostrar"
         btnAtivado.splice(0,2)
     }
 
